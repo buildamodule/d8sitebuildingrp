@@ -1,4 +1,4 @@
-# Drupal 8 Site Building Resource Pack
+# "Drupal 8 Site Building" Resource Pack
 
 This contains the resource pack for the ["Drupal 8 Site Building" collection on BuildAModule](https://buildamodule.com/collection/drupal-8-site-building). There are two folders:
 
