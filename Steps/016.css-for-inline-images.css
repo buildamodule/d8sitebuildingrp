@@ -1,0 +1,6 @@
+.field.field--name-field-blog-images.field--type-image.field--label-above {
+  float: none;
+}
+.field--name-field-blog-images .field__item {
+  display: inline;
+}
